@@ -1,0 +1,3 @@
+Upon looking at the code I have realised that there are 4 values which I assumed were for RGBA (Red, green, blue and alpha). 
+After seeing that 1.0 created fully red I realised that the values must be between 0-1 so I changed the value for Blue from 0 to 1 and 
+the value for Red from 1 to 0
